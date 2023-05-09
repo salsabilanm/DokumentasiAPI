@@ -10,8 +10,7 @@
   "schemes": ["https"],
   "tags": [
     {
-      "name": "Users",
-      "description": "Everything about your Colors"
+      "name": "Users"
     }
   ],
   "paths": {
